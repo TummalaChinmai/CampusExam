@@ -1,0 +1,19 @@
+#How to crawl a website:
+Steps:
+1. Understanding the structure of the domain
+2. Configuring the URL Structure
+3. Running a test crawl
+4. Adding crawling restrictions
+5. Testing changes
+6. Running crawl
+
+#How to save the images and text from the website
+Steps to save image:
+1. Right-click on any image on a website to view the properties menu for that image.
+2. If you want to copy that image into another document, Click the Copy image option from the menu. 
+3. If you want to save the image file to your computer, Click the Save image option from the menu.
+Steps to text image:
+1. To copy text from a web page, find the beginning of the text you want to copy. Press and hold the left mouse button. 
+2. Then, drag the mouse from the top-left to the bottom-right part of the section of text you want to copy.
+3. To copy the highlighted text, on your keyboard, press the keyboard shortcut Ctrl+C or right-click the highlighted text and click Copy.
+4. To paste text, place your cursor in the appropriate location and press the keyboard shortcut key combination Ctrl+V, or right-click where you want to paste the text and click Paste.
